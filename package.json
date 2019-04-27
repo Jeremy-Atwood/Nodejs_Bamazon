@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon database and node homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "Are you reading me?"
+  },
+  "author": "Jeremy Atwood",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
